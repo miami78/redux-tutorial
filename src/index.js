@@ -4,6 +4,17 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+// STORE -> GLOBALIZED STATE
+
+// ACTION INCREMENT
+
+// REDUCER
+
+// DISPATCH
+
+
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
